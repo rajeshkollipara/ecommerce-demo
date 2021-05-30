@@ -1,0 +1,16 @@
+#row div {
+  width: 200px;
+  float: left;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.quantity {
+  color: black;
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
